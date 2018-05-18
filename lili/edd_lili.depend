@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1526673970 source:/home/mbpereira/workspace/CODEBLOCKS/edd_lili/main.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1526674024 /home/mbpereira/workspace/CODEBLOCKS/edd_lili/list.h
+	<string.h>
+	"list.h"
+
+1526673855 source:/home/mbpereira/workspace/CODEBLOCKS/edd_lili/list.c
+	"list.h"
+
+1526678270 source:/home/mbpereira/workspace/CODEBLOCKS/playing-c/lili/list.c
+	"list.h"
+
+1526678177 /home/mbpereira/workspace/CODEBLOCKS/playing-c/lili/list.h
+	<string.h>
+	"list.h"
+
