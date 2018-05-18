@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1526602463 source:/home/mbpereira/workspace/CODEBLOCKS/rplc3/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1526613602 source:/home/mbpereira/workspace/CODEBLOCKS/playing-c/rplc3/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
