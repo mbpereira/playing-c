@@ -94,7 +94,7 @@ void print_l(List* l){
 }
 
 int empty(List* l){
-    return (l==NULL && l->next==NULL);
+    return (l->next==NULL);
 }
 int size_l(List* l){
     int n;
