@@ -2,7 +2,6 @@
 #define LIST_H_INCLUDED
 
 #include <string.h>
-#include "list.h";
 
 
 #define number(a) #a
